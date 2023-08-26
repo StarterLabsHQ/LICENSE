@@ -9,14 +9,14 @@ Parameters
 
 Licensor:             Starter Labs, LLC
 
-Licensed Work:        OpenStarter v1
-                      The Licensed Work is (c) 2021 Starter Labs, LLC
+Licensed Work:        Starter Launchpad v4
+                      The Licensed Work is (c) 2021-2024 Starter Labs, LLC
 
 Additional Use Grant: Any uses listed and defined at
-                      v1-openstarter.licenses.starter.xyz
+                      v4-launchpad.licenses.starter.xyz, if link available
 
-Change Date:          The earlier of 2025-04-01 or a date specified at
-                      v1-openstarter-date.licenses.starter.xyz
+Change Date:          The earlier of 2027-08-01 or a date specified at
+                      v4-date.licenses.starter.xyz, if link available
 
 Change License:       GNU General Public License v2.0 or later
 
