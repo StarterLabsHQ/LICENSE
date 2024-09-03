@@ -10,6 +10,7 @@ Parameters
 Licensor:             Starter Labs, LLC
 
 Licensed Work:        Starter.xyz v4; BidSwap.io v1
+
 The Licensed Work is (c) 2021-2028 Starter Labs, LLC
 
 Change Date:          The earlier of 2028-12-31 or a date specified at
