@@ -9,14 +9,11 @@ Parameters
 
 Licensor:             Starter Labs, LLC
 
-Licensed Work:        Starter Launchpad v4
-                      The Licensed Work is (c) 2021-2024 Starter Labs, LLC
+Licensed Work:        Starter.xyz v4, BidSwap.io v1
+                      The Licensed Work is (c) 2021-2028 Starter Labs, LLC
 
-Additional Use Grant: Any uses listed and defined at
-                      v4-launchpad.licenses.starter.xyz, if link available
-
-Change Date:          The earlier of 2027-08-01 or a date specified at
-                      v4-date.licenses.starter.xyz, if link available
+Change Date:          The earlier of 2028-12-31 or a date specified at
+                      date.licenses.starter.xyz, if link available
 
 Change License:       GNU General Public License v2.0 or later
 
